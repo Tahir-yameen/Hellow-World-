@@ -1,2 +1,2 @@
 # Hellow-World-
-My first Typescript project.
+Typescript first file.
